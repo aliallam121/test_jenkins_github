@@ -1,4 +1,4 @@
-// test snnippets
+// test snippets
 pipeline {
 
     agent any
